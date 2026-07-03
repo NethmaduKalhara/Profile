@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kalhara Ariyarathna</h1>
+<h1 align="center">Hi 👋, I'm Nethmadu Kalhara</h1>
 
 <h3 align="center">
 Software Engineering Undergraduate | Aspiring Software Engineer | QA | IT Support | DevOps Learner
